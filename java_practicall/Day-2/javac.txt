@@ -74,7 +74,7 @@ After javac
 
 The output .class file is executed by:
 
-👉 Java Virtual Machine (JVM)
+ Java Virtual Machine (JVM)
 
 javac → bytecode
 java → runs bytecode
